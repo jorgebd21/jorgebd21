@@ -1,43 +1,75 @@
 <div align="center">
 
+<!-- Profile summary -->
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jorgebd21&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
 
-<img src="https://img.shields.io/badge/Student-Computer%20Engineering-blueviolet?style=for-the-badge&logo=academia" alt="Computer Engineering"/>
-<img src="https://img.shields.io/badge/Location-Granada%2C%20Spain-9cf?style=for-the-badge&logo=googlemaps" alt="Location"/>
-<img src="https://img.shields.io/badge/Email-baezadiazjorge2112@gmail.com-critical?style=for-the-badge&logo=gmail" alt="Email"/>
+<!-- Badges -->
+<img src="https://img.shields.io/badge/🎓%20Student-Computer%20Engineering-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍%20Granada%2C%20Spain-9cf?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📩%20Email-baezadiazjorge2112@gmail.com-critical?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👋 Hi, I'm Jorge Baeza Díaz
+<h1 align="center">👋 Hi, I'm Jorge Baeza Díaz</h1>
 
-I'm a tech enthusiast from Granada, Spain, currently embarking on my Computer Engineering journey at UGR.  
-Passionate about technology since childhood—especially video games, understanding how things work behind the scenes, and building creative systems.
-
-- 🎮 I love exploring the mechanics of games and software.
-- 🛠️ I enjoy tinkering with code, Linux, and open-source projects.
-- 🚀 Always curious, always learning.
+<p align="center">
+Computer Engineering student at <b>UGR</b> · Tech enthusiast · Lifelong learner
+</p>
 
 ---
 
+## 🚀 About Me
+
+I'm a tech enthusiast from **Granada, Spain**, currently studying **Computer Engineering** at the University of Granada.  
+Passionate about understanding how things work under the hood and building creative systems.
+
+- 🎮 Game mechanics & software internals  
+- 🛠️ Coding, Linux & open-source  
+- 🌱 Always learning  
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jorgebd21&show_icons=true&theme=carbon&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jorgebd21&theme=carbon&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgebd21&layout=compact&theme=carbon&hide_border=true"/>
+
+</div>
+
+---
 ## 🧑‍💻 Skills & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgebd21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgebd21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<img src="https://skillicons.dev/icons?i=cpp,java,linux&theme=dark" height="45"/>
+
 </div>
 
-###
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,linux" height="40"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jorgebd21&theme=darkhub&no-frame=true&row=1"/>
+
 </div>
 
 ---
 
-> “Technology and learning drive me to grow and add value to every project.”
+## 💡 Philosophy
+
+<p align="center">
+<i>“Technology and learning drive me to grow and add value to every project.”</i>
+</p>
 
 ---
 
-<!-- Optionally, you can add stats, a timeline, or portfolio links below -->
+<div align="center">
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories ⭐
+
+</div>
