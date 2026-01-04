@@ -50,16 +50,6 @@ Passionate about understanding how things work under the hood and building creat
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jorgebd21&theme=darkhub&no-frame=true&row=1"/>
-
-</div>
-
----
-
 ## 💡 Philosophy
 
 <p align="center">
