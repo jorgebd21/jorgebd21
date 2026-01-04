@@ -1,12 +1,13 @@
 <div align="center">
 
-<!-- Profile summary -->
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jorgebd21&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
 
-<!-- Badges -->
 <img src="https://img.shields.io/badge/🎓%20Student-Computer%20Engineering-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/📍%20Granada%2C%20Spain-9cf?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/📩%20Email-baezadiazjorge2112@gmail.com-critical?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/jorgebd21/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Jorge%20Baeza%20Díaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
