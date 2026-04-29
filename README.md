@@ -20,7 +20,7 @@ My vision of Computer Science goes beyond just writing functional code; I strive
 
 * 🎓 **Currently studying:** Computer Engineering at UGR.
 * 💡 **Interests:** Software Architecture, Artificial Intelligence, and Quantum Computing.
-* 🏆 **Competitive spirit:** Active participant in algorithmic challenges (AdaByron) and robotics (4x First LEGO League).
+* 🏆 **Competitive spirit:** Active participant in algorithmic challenges (AdaByron) and robotics (3x First LEGO League).
 
 ---
 
